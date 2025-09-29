@@ -1,6 +1,6 @@
 # Intern Challenge: Placement Problem
 
-Welcome to the par.tcl 2026 ML Sys intern challenge! Your task is to solve a placement problem involving standard cells (small blocks) and macros (large blocks). The goal is to minimize the overlap area and the wirelength of the connections between the blocks. A valid placement must ensure that no blocks overlap, but we will look at amount of overlap and wirelength as a metric for how good the placement is.
+Welcome to the par.tcl 2026 ML Sys intern challenge! Your task is to solve a placement problem involving standard cells (small blocks) and macros (large blocks). The goal is to minimize the overlap area and the wirelength of the connections between the blocks. A valid placement must ensure that no blocks overlap, but we will look at amount of overlap and wirelength as a metric for how good the placement is
 
 ## Problem Statement
 
